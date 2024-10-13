@@ -1,0 +1,35 @@
+# Data directory
+data/
+
+# Data directory
+.gradio/
+
+# Data directory
+slingshot-venv/
+
+# Dump directory
+dump/
+
+# Model weights directory
+model_weights/
+
+# Weights & Biases files
+wandb/
+
+# Additional common Python ignores
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+.env
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
